@@ -4,15 +4,19 @@ result: >
         **Tatsächlich hat sich unter der rot-grünen Landesregierung der Anteil der Bio-Landwirtschaft erhöht.** Das war erklärtes Ziel der rot-grünen Landesregierung.
 
 data:
-  2007:	17.1
-  2008:	16.2
-  2009:	16.6
-  2010:	15.7
-  2011:	15.8
-  2012:	16.5
-  2013:	17.2
-  2014:	17.8
-  2015:	18.1
+  2005: 3.7
+  2006: 3.6
+  2007:	4.0
+  2008:	4.1
+  2009:	4.2
+  2010:	4.6
+  2011:	4.8
+  2012:	4.8
+  2013:	4.8
+  2014:	4.8
+  2015:	4.8
+  2016: 5.4
 
 accessibility: http://www1.wdr.de/nachrichten/landespolitik/landtagswahl/wss-kinderarmut-barrierefrei-100.html
 unit: '%'
+precision: 1
