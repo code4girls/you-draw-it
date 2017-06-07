@@ -1,0 +1,21 @@
+heading: Unternehmensinsolvenzen in NRW
+subheading: Wie viele Unternehmen gingen prozentual unter der Regierung Kraft insolvent?
+result: >
+        **In NRW gehen jedes Jahr zwischen 0,8 und 1,2 Prozent der Unternehmen insolvent.**
+        Ein Trend ist nicht zu erkennen – die Auf- und Abbewegungen lassen nicht auf eine extrem unternehmensfeindliche Stimmung unter der Regierung Kraft schließen.
+
+data:
+  2006: 11
+  2007: 9
+  2008: 10
+  2009: 11
+  2010: 12
+  2011: 11
+  2012: 11
+  2013: 9
+  2014: 8
+  2015: 8
+
+accessibility: http://www1.wdr.de/nachrichten/landespolitik/landtagswahl/wss-wirtschaftswachstum-barrierefrei-104.html
+unit: 'pro 1000 Unternehmen'
+precision: 0
