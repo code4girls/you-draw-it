@@ -1,0 +1,21 @@
+heading: Ehescheidungen in NRW
+subheading: Wie viele von 10.000 Ehen wurden pro Jahr geschieden?
+result: >
+        **Die Zahl der Scheidungen in NRW ist seit 2009 jedes Jahr gesunken.** Der „liebevolle Gegentrend“: Seit 2013 steigt die Zahl der Eheschließungen wieder.
+
+data:
+  2005: 116
+  2006: 113
+  2007: 108
+  2008: 116
+  2009: 117
+  2010: 117
+  2011: 115
+  2012: 113
+  2013: 107
+  2014: 100
+  2015: 98
+
+accessibility: http://www1.wdr.de/nachrichten/landespolitik/landtagswahl/wss-kinderarmut-barrierefrei-100.html
+unit: 'Ehen'
+precision: 0
