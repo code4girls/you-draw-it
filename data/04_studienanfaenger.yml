@@ -1,0 +1,22 @@
+heading: Studienanfängerquote in NRW
+subheading: Wie hat sich die Zahl der Studienanfänger in NRW verändert?
+result: >
+        **Die Zahl der Studienanfänger steigt seit 2010.** Der Regierungswechsel macht sich bemerkbar. 
+        Hannelore Kraft hat 2011 die Studiengebühren abgeschafft.  
+
+data:
+  2004: 40.1 
+  2005: 41.1     
+  2006: 37.6
+  2007: 38.2
+  2008: 41.1
+  2009: 44.1
+  2010: 47.0
+  2011: 58.0
+  2012: 57.4
+  2013: 64.0
+  2014: 63.6
+
+accessibility: http://www1.wdr.de/nachrichten/landespolitik/landtagswahl/wss-wirtschaftswachstum-barrierefrei-104.html
+unit: '%'
+precision: 1
